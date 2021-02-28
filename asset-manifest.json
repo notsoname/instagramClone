@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/instagramClone/static/css/main.20a576e3.chunk.css",
+    "main.js": "/instagramClone/static/js/main.347b51a4.chunk.js",
+    "main.js.map": "/instagramClone/static/js/main.347b51a4.chunk.js.map",
+    "runtime-main.js": "/instagramClone/static/js/runtime-main.9b16a7e9.js",
+    "runtime-main.js.map": "/instagramClone/static/js/runtime-main.9b16a7e9.js.map",
+    "static/js/2.baabe4b0.chunk.js": "/instagramClone/static/js/2.baabe4b0.chunk.js",
+    "static/js/2.baabe4b0.chunk.js.map": "/instagramClone/static/js/2.baabe4b0.chunk.js.map",
+    "index.html": "/instagramClone/index.html",
+    "static/css/main.20a576e3.chunk.css.map": "/instagramClone/static/css/main.20a576e3.chunk.css.map",
+    "static/js/2.baabe4b0.chunk.js.LICENSE.txt": "/instagramClone/static/js/2.baabe4b0.chunk.js.LICENSE.txt",
+    "static/media/ResetPassword.module.css": "/instagramClone/static/media/logos.077eb7ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b16a7e9.js",
+    "static/js/2.baabe4b0.chunk.js",
+    "static/css/main.20a576e3.chunk.css",
+    "static/js/main.347b51a4.chunk.js"
+  ]
+}
